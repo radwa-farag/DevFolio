@@ -416,11 +416,11 @@ form button:hover
     padding-top: 0.75rem ;
     padding-bottom: 0.75rem ;
 }
+.contact i{
+    font-size: 1.2rem;
+}
 
-
-
-
-.footer
+footer
 {
     background-color: #0062d3;
     color: white;
